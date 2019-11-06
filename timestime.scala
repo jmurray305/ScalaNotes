@@ -1,4 +1,4 @@
-
+//Basic Times table used to work on nested while loops and syntax
 var a = 1; 
 var b = 1; 
 while (a < 6)
